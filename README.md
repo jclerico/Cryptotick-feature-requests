@@ -17,7 +17,7 @@ Go to the “Issues” tab at the top, and use the search bar to see if your fea
 
 ### What if I have a bug report, not a feature request?
 
-Please see [this github repo](https://github.com/jclerico/Cryptotick-bugs)
+Please report bugs [here](https://github.com/jclerico/Cryptotick-bugs)
 
 ### Can I participate in discussions here?
 
