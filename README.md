@@ -3,7 +3,7 @@ Feature Request Tracker for CryptoTick iOS App
 
 # CryptoTick Feature Request Tracker Repo
 
-This repo is used to track user submitted feature requests for [CryptoTick iOS](https://cryptotick.co.uk). If you have a feature to request, check the “Issues” tab up above to see if it's already been requested, otherwise create a new ticket and add the gree 'feature request' tag.
+This repo is used to track user submitted feature requests for [CryptoTick iOS](https://cryptotick.co.uk). If you have a feature to request, check the “Issues” tab up above to see if it's already been requested, otherwise create a new ticket and add the green 'feature request' tag.
 
 ### How do I request a feature?
 
